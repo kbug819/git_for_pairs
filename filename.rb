@@ -1,3 +1,4 @@
-def classic
-  p "Hello World"
+def new_classic
+  p "Hello pair projects and merge conflicts"
 end
+
