@@ -1,1 +1,3 @@
-# Testing, new repository
+def classic
+  p "Hello World"
+end
